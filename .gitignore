@@ -1,0 +1,27 @@
+# Python & general
+__pycache__/
+*.py[cod]
+*.env
+venv/
+env/
+.ipynb_checkpoints
+
+# MATLAB
+*.asv
+*.mex*
+*.mat
+
+# build/exes
+*.exe
+*.dll
+*.o
+*.obj
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archives created by script
+ARCHIVE_*/
